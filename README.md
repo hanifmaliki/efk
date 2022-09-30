@@ -1,1 +1,2 @@
-# Elasticsearch, Fluentd, and Kibana (EFK stack)
+# EFK
+Elasticsearch, Fluentd, and Kibana (EFK stack)
